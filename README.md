@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian, an <a href=["https://linkedin.com/in/christian-carper-04bb5223a/>IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian, an <a href=["https://linkedin.com/in/christian-carper-04bb5223a/>IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
